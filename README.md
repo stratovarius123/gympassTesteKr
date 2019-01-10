@@ -1,11 +1,10 @@
-# Teste Gympass Alexandre Reis
+# Test Gympass Alexandre Reis
 
-Para iniciar o projeto, execute a classe MainApplication localizada no modulo **krConfiguration**.
-Após o start do servidor, abrir a URL `http://localhost:8100` para acessar a página WEB da aplicação,
-onde deverar ser preechido com o caminho aonde está o arquivo.
+To start the project, run the MainApplication.Class located in the  krconfiguration - module.
+After the start of the server, open the URL ' http://localhost:8100 ' to access the Web page of the application,
+Where it should be filled with the path where the file is.
 
-deverar retornar todas as informaçoes pedidas no teste.
+Should return all the information requested in the test.
 
-
-Todos os endpoints foram documentados utilizando Swagger.
-`http://localhost:8100/swagger-ui.html#/`.
+All endpoints were documented using swagger.
+' http://localhost:8100/swagger-ui.html#/'.
